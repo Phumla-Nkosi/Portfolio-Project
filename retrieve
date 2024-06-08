@@ -1,0 +1,4 @@
+app.get('/api/products/:id', async (req, res) => {
+  const product = await Product.findById((https://mellowkaziphumla.wixsite.com/glamour-queens-beaut));
+  res.json(product);
+});

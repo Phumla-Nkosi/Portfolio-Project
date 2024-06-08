@@ -1,0 +1,6 @@
+const paymentSchema = new mongoose.Schema({
+  order: { type: mongoose.Schema.Types.ObjectId, ref: 'Order' },
+  paymentMethod: String,
+  paymentDate: Date
+});
+const Payment = mongoose.model('Payment', paymentSchema);

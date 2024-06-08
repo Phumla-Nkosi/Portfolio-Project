@@ -1,3 +1,6 @@
+![IMG_9290](https://github.com/Phumla-Nkosi/Portfolio-Project/assets/133224303/bdc8935d-2b9b-436a-aec8-b7d81a5362e7)
+![IMG_9289](https://github.com/Phumla-Nkosi/Portfolio-Project/assets/133224303/f5e41bf8-e3b2-4e54-b9b0-082ec9c91447)
+![IMG_9288](https://github.com/Phumla-Nkosi/Portfolio-Project/assets/133224303/23f479cd-4738-4a07-a5a2-15a192557351)
 ![bb60f0f0-f277-4690-8227-9ccc8d3ca28c](https://github.com/Phumla-Nkosi/Portfolio-Project/assets/133224303/94fddf44-6ace-4d8b-b91c-c2d7165bece6)
 Glamour queens beauty Online Service
 
